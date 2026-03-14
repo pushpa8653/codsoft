@@ -2,6 +2,7 @@
 
 This repository contains the tasks completed during my Python internship at CodSoft.
 
+
 ## Tasks
 1. Calculator – Performs basic arithmetic operations.
 2. Password Generator – Generates secure passwords.
